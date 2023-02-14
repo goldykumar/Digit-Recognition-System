@@ -1,4 +1,4 @@
-Handwritten Digit Recognition
+#Handwritten Digit Recognition
 <hr>
 <section>
   Here is how to run this project:
